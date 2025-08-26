@@ -1,13 +1,13 @@
 # Flash Card Web App 🃏  
 
-A basic Flash Card Web App built using **HTML, CSS, and JavaScript**.  
-Users can view questions on cards and flip them to reveal answers. It’s a simple project to practice DOM manipulation, event handling, and interactive UI design.  
+A simple Flash Card Web App built with **HTML, CSS, and JavaScript**.  
+It helps in learning and revision by showing cards after a set interval of days, following the spaced repetition method. This makes memorization easier and more effective.  
 
 ## 🚀 Features  
-- Flip cards to view answers  
-- Clean and simple design  
+- Add and manage flash cards  
+- Cards reappear after some days for revision  
+- Simple, responsive design  
 - Beginner-friendly project  
-- Built with pure HTML, CSS, JavaScript  
 
 ## 🛠️ Tech Stack  
 - HTML  
@@ -17,4 +17,4 @@ Users can view questions on cards and flip them to reveal answers. It’s a simp
 ## 📂 How to Use  
 1. Clone the repository  
    ```bash
-   git clone 
+   git clone https://github.com/Sandarbhlakhera/Flash-Card-Web-App.git
