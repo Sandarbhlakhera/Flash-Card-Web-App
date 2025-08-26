@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flashcard-App</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <h2>Flashcard Creator</h2>
+    <input id="question" type="text" placeholder="Enter question" />
+    <textarea id="answer" placeholder="Enter answer"></textarea>
+    <button onclick="addFlashcard()">Add Flashcard</button>
+
+    <h3>Study Flashcards</h3>
+    <div id="study-section">
+      <div class="flashcard" id="flashcard"></div>
+      <div class="controls">
+        <button onclick="gradeAnswer(5)">Easy</button>
+        <button onclick="gradeAnswer(3)">Medium</button>
+        <button onclick="gradeAnswer(1)">Hard</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
