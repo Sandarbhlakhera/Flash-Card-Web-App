@@ -17,4 +17,4 @@ It helps in learning and revision by showing cards after a set interval of days,
 ## 📂 How to Use  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Sandarbhlakhera/Flash-Card-Web-App.git
+   git clone https://github.com/Sandarbhlakhera/SmartRecall.git
